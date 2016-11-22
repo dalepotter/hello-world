@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-1st ever github repo|!
+This is a test of Gerritt.
